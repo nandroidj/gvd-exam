@@ -8,7 +8,7 @@
 2. Se crea la base de datos *mongo_exercise* y la coleccion *movies*.
 
 
-![compass_data_base]()
+![compass_data_base](https://github.com/nandroidj/gvd-exam/blob/main/resources/mongo-db-compass.png)
 
 ## 1- Documentos a Insertar
 
