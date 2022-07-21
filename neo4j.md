@@ -163,6 +163,7 @@ CREATE (n1)-[R:COMENTARIOS]->(c1) return n1,R,c1;
 MATCH (n) RETURN n
 ```
 
+![modelo](https://github.com/nandroidj/gvd-exam/blob/main/resources/graph.svg)
 
 ## 2 - Resolver las siguientes consultas.
 
